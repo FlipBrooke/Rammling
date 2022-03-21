@@ -1,0 +1,13 @@
+{
+    "hidden": true,
+    "type": "origins:action_when_damage_taken",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "fall"
+    },
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "/advancement grant @s only rammling:fallfrombrace"
+    },
+    "cooldown": 2
+}

@@ -1,0 +1,53 @@
+{
+    "hidden": true,
+    "type": "origins:action_on_being_used",
+    "bientity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:target_action",
+                "action": {
+                    "type": "origins:and",
+                    "actions": [
+                        {
+                            "type": "origins:play_sound",
+                            "sound": "entity.cow.milk",
+                            "volume": 1,
+                            "pitch": 1
+                        },
+                        {
+                            "type": "origins:execute_command",
+                            "command": "/advancement grant @s only rammling:goatmilk"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "origins:actor_action",
+                "action": {
+                    "type": "origins:play_sound",
+                    "sound": "entity.cow.milk",
+                    "volume": 1,
+                    "pitch": 1
+                }
+            }
+        ]
+    },
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "bucket"
+        }
+    },
+    "hands": [
+        "main_hand"
+    ],
+    "result_stack": {
+        "item": "milk_bucket",
+        "tag": "{display:{Name:'[{\"text\":\"Milk Bucket?\",\"italic\":false}]',Lore:['[{\"text\":\"Has a funny smell\",\"italic\":false}]']}}"
+    },
+    "held_item_action": {
+        "type": "origins:consume"
+    },
+    "action_result": "success"
+}

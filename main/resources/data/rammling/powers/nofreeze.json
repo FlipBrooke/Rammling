@@ -1,0 +1,8 @@
+{
+    "type": "origins:invulnerability",
+    "damage_condition": {
+        "inverted": false,
+        "type": "origins:name",
+        "name": "freeze"
+    }
+}

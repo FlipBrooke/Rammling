@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "spruce_boat"
+        },
+        "title": "Row Your Goat",
+        "description": "Use your boost to go faster underwater",
+        "frame": "goal",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "rammling:root",
+    "criteria": {
+        "temp": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "origins:action_on_callback",
+    "execute_chosen_when_orb": true,
+    "entity_action_added": {
+        "type": "origins:chance",
+        "chance": 0.1,
+        "action": {
+            "type": "origins:execute_command",
+            "command": "/tellraw @s {\"text\":\"If you would like to leave feedback, suggest a feature, or try to become a translator, take this form: https://forms.gle/jteKG1YXXtXyZsak9. It helps me a bunch, Ty :D\",\"clickEvent\":{\"action\":\"open_url\",\"value\":\"https://forms.gle/jteKG1YXXtXyZsak9\"}}"
+        }
+    }
+}

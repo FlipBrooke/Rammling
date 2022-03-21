@@ -1,0 +1,13 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:fall_distance",
+        "comparison": ">=",
+        "compare_to": 100
+    },
+    "type": "origins:action_on_land",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "/advancement grant @s only rammling:bracejumping"
+    }
+}
