@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "rammling",
+  "version": "1.0.0",
+
+  "name": "Goat Origin",
+  "description": "A mod which adds a goat origin to minecraft using the origins mod",
+  "authors": [
+    "NotJustJosh"
+  ],
+  "license": "All rights reserved",
+  "icon": "assets/rammling/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.notjustjosh.rammling.GoatOrigins"
+    ]
+  },
+  "mixins": [
+    "rammling.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17",
+    "origins": ">=1.3.1"
+  }
+}

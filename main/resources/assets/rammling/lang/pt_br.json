@@ -1,0 +1,16 @@
+{
+  "origin.rammling.rammling.name": "Cabeçadeiro",
+  "origin.rammling.rammling.description": "Você é um cabeçadeiro, uma criatura parecida com bodes. Existem rumores que esta espécie mora nas mais altas montanhas. Cabeçadeiros sobreviveram tanto tempo se escondendo nas montanhas, mas você está pronto pra conhecer outros lá em baixo.",
+  "power.rammling.coat.name": "Casaco Peludo",
+  "power.rammling.coat.description": "Seu fofo casaco de pelo é muito quente, deixando você lento em biomas quentes",
+"power.rammling.knockback.name": "Cabeçada",
+  "power.rammling.knockback.description": "Usando seus grandes chifres, você pode lançar um inimigo ao ar ao se agachar e bater em um jogador.",
+"power.rammling.lessfall.name": "Adaptado As Altura",
+  "power.rammling.lessfall.description": "Usando suas fortes pernas, você pode se agachar pra negar dano de queda.",
+ "power.rammling.nofreeze.name": "Insulado",   
+  "power.rammling.nofreeze.description": "Como uma espécie perfeitamente adaptada as montanhas, você não congela em neve em pó.",
+"power.rammling.ram.name": "Pulo",
+  "power.rammling.ram.description": "Usando a tecla primaria (G por default), Você consegue dar um super pulo na direção que estiver olhando. Mas tome cuidado, você ainda toma dano de queda se não tiver agachado. Isso não funciona se estiver usando asas de elitro.",
+"power.rammling.small.name": "Baixo",
+  "power.rammling.small.description": "Sua baixa Altura significa que você tem apenas 7 corações de vida."
+}

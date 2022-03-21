@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "milk_bucket"
+        },
+        "title": "Goat Milk?",
+        "description": "WHAT THE HELL DID YOU DO",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": true
+    },
+    "parent": "rammling:root",
+    "criteria": {
+        "temp": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

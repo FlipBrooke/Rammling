@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "white_wool"
+        },
+        "title": "Rammling",
+        "description": "Butting, Bracing, and Bounding",
+        "frame": "task",
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+        "show_toast": true,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "root": {
+            "trigger": "origins:chose_origin",
+            "conditions": {
+                "origin": "rammling:rammling"
+            }
+        }
+    }
+}

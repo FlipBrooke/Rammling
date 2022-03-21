@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "end_stone"
+        },
+        "title": "Space Ram",
+        "description": "Use your leap",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "rammling:root",
+    "criteria": {
+        "temp": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

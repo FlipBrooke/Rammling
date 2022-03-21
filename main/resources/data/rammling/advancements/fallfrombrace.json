@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "feather"
+        },
+        "title": "Fall From Brace",
+        "description": "You realize you just need to sneak, right?",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "rammling:root",
+    "criteria": {
+        "temp": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

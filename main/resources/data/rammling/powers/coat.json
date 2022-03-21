@@ -1,0 +1,25 @@
+{
+    "condition": {
+        "inverted": false,
+        "type": "origins:biome",
+        "condition": {
+            "inverted": true,
+            "type": "origins:temperature",
+            "comparison": "<",
+            "compare_to": 0.95
+        }
+    },
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 10,
+    "duration_per_stack": 10,
+    "tick_rate": 10,
+    "effect": {
+        "effect": "slowness",
+        "duration": 10,
+        "amplifier": 1,
+        "is_ambient": false,
+        "show_particles": false,
+        "show_icon": true
+    }
+}

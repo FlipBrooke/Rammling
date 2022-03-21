@@ -1,0 +1,10 @@
+{
+    "origins": [
+        "rammling:rammling"
+    ],
+    "enabled": true,
+    "replace": false,
+    "allow_random": true,
+    "allow_random_unchoosable": false,
+    "auto_choose": false
+}

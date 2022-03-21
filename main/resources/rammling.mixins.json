@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.notjustjosh.rammling.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PowderSnowBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

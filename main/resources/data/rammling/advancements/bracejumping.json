@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "diamond_boots",
+            "nbt": "{Enchantments:[{id:feather_falling,lvl:4}]}"
+        },
+        "title": "BRACE jumping",
+        "description": "Jump from 100 blocks. Extra points if you survive",
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true
+    },
+    "parent": "rammling:root",
+    "criteria": {
+        "temp": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Rammling",
+    "description": "You're a rammling, a mysterious goat creature who's rumored to live atop the highest mountain, with others of its kind. Rammlings have survived this long by hiding in the mountains, but maybe you're ready to make first contact with the outsiders below.",
+    "powers": [
+        "rammling:knockback",
+        "rammling:ram",
+        "rammling:small",
+        "rammling:lessfall",
+        "rammling:nofreeze",
+        "rammling:coat",
+        "rammling:milkable",
+        "rammling:fallfrombrace",
+        "rammling:bracejumping",
+        "rammling:rowyourgoat",
+        "rammling:walkonsnow"
+    ],
+    "icon": {
+        "item": "white_wool"
+    },
+    "unchoosable": false,
+    "order": -10000000000000000,
+    "impact": 2
+}

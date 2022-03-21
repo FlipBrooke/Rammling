@@ -1,0 +1,14 @@
+{
+    "hidden": true,
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "water"
+    },
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:execute_command",
+        "command": "/advancement grant @s only rammling:rowyourgoat"
+    },
+    "cooldown": 2,
+    "key": "primary"
+}

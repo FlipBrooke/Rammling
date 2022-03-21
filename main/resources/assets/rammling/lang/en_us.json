@@ -1,0 +1,17 @@
+{
+  "origin.rammling.rammling.name": "Rammling",
+  "origin.rammling.rammling.description": "You're a rammling, a mysterious goat creature who's rumored to live atop the highest mountain, with others of its kind. Rammlings have survived this long by hiding in the mountains, but maybe you're ready to make first contact with the outsiders below.",
+
+  "power.rammling.coat.name": "Fur Coat",
+  "power.rammling.coat.description": "Your fluffy fur coat makes it much harder to walk in extreme heat, making you have slowness II in hot biomes.",
+"power.rammling.knockback.name": "Ram",
+  "power.rammling.knockback.description": "Using your large front horns, you can launch an enemy into the air by bracing (sneaking), and hitting a player.",
+"power.rammling.lessfall.name": "Brace",
+  "power.rammling.lessfall.description": "Using your strong, goat like legs, you can sneak to negate all fall damage.",
+ "power.rammling.nofreeze.name": "Insulated",
+  "power.rammling.nofreeze.description": "As a species perfectly adapted to the mountains, It's impossible to freeze in powder snow.",
+"power.rammling.ram.name": "Leap",
+  "power.rammling.ram.description": "Using your primary key (G by default), You can take a huge leap in the direction you're facing. Be careful though, you still take fall damage when you aren't bracing. This won't work when using an elytra.",
+"power.rammling.small.name": "Small",
+  "power.rammling.small.description": "Your slightly smaller height means you only have seven hearts of health."
+}
