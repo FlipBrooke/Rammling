@@ -13,5 +13,7 @@
 "power.rammling.ram.name": "Leap",
   "power.rammling.ram.description": "Using your primary key (G by default), You can take a huge leap in the direction you're facing. Be careful though, you still take fall damage when you aren't bracing. This won't work when using an elytra.",
 "power.rammling.small.name": "Small",
-  "power.rammling.small.description": "Your slightly smaller height means you only have seven hearts of health."
+  "power.rammling.small.description": "Your slightly smaller size means you only have seven hearts of health.",
+  "power.rammling.walkonsnow.name": "Light Weight",
+  "power.rammling.walkonsnow.description":"Your small size and large, hoofed feet stop you from sinking in powder snow."
 }
