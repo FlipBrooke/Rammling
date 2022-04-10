@@ -1,0 +1,19 @@
+{
+  "origin.rammling.rammling.name": "Rammling",
+  "origin.rammling.rammling.description": "Bir rammling'siniz, diğer türleriyle beraber en yüksek dağın doruğunda yaşadığı söylenen gizemli bir keçi yaratığı. Rammlingler dağlarda saklanarak bu kadar uzun süre hayatta kaldılar, Ama belki sen aşağıdakilerle ilk teması yapmaya hazırsındır.",
+
+  "power.rammling.coat.name": "Kürk",
+  "power.rammling.coat.description": "Kabarık kürkün ekstrem sıcaklıkta yürümeyi çok daha zor yapar, bu yüzden sıcak biyomlarda Yavaşlık II'in var .",
+"power.rammling.knockback.name": "Tosla",
+  "power.rammling.knockback.description": "Çömerken(eğilirken) kafanızın önündeki büyük boynuzları kullanarak düşmanınızı ona vurararak havaya yollayabilirsiniz.",
+"power.rammling.lessfall.name": "Çöm",
+  "power.rammling.lessfall.description": "Güçlü, keçi gibi bacaklarınız sayesinde eğilerek düşüş hasarından kurtulabilirsiniz.",
+ "power.rammling.nofreeze.name": "Adapte",
+  "power.rammling.nofreeze.description": "Dağlara mükemmel şekilde adapte olmuş bir tür olarak tozlaşmış karda donmanız imkansız.",
+"power.rammling.ram.name": "Şıçrama",
+  "power.rammling.ram.description": "Birincil tuşunuzu kullanarak (Varsayılan G) baktığınız yöne doğru büyük bir şıçrama yapabilirsiniz. Ama dikkatlı olun, hala çömmediğiniz takdirde düşüş hasarı alırsınız. Bu bir Elitra kullanırken çalışmayacaktır.",
+"power.rammling.small.name": "Küçük",
+  "power.rammling.small.description": "Birazcık küçük boyunuz sadece yedi kalbiniz olduğu anlamına geliyor.",
+  "power.rammling.walkonsnow.name": "Tüy Gibi",
+  "power.rammling.walkonsnow.description":"Küçük boyutunuz ve büyük, toynaklı ayağınız tozlaşmış kara batmanızı engelliyor."
+}
