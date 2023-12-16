@@ -1,0 +1,19 @@
+{
+  "origin.rammling.rammling.name": "Rammling",
+  "origin.rammling.rammling.description": "Vous êtes un rammling, une mystérieuse race de chèvre qui selon la rumeur, vit au sommet de la plus haute montagne, avec d'autres de son espèce. Les Rammlings ont survécu aussi longtemps en se cachant dans les montagnes, mais peut-être êtes-vous prêt à établir un premier contact avec les étrangers en contrebas.",
+
+  "power.rammling.coat.name": "Manteau de fourrure",
+  "power.rammling.coat.description": "Votre manteau de fourrure moelleux rend beaucoup plus difficile la marche dans une chaleur extrême, ce qui vous fait avoir une lenteur II dans les biomes chauds.",
+"power.rammling.knockback.name": "Charge",
+  "power.rammling.knockback.description": "En utilisant les grandes cornes à l'avant de votre tête, vous pouvez lancer un ennemi dans les airs en vous préparant (en vous accroupissant) et en frappant un joueur.",
+"power.rammling.lessfall.name": "Renfort",
+  "power.rammling.lessfall.description": "En utilisant vos fortes jambes de chèvre, vous pouvez vous accroupir pour annuler tous les dégâts de chute.",
+ "power.rammling.nofreeze.name": "Isolée",
+  "power.rammling.nofreeze.description": "En tant qu'espèce parfaitement adaptée à la montagne, il est impossible de geler dans la poudreuse.",
+"power.rammling.ram.name": "Saut",
+  "power.rammling.ram.description": "En utilisant votre touche primaire (G par défaut), vous pouvez faire un énorme bond dans la direction à laquelle vous faites face. Attention cependant, vous subissez toujours des dégâts de chute lorsque vous ne vous préparez pas. Cela ne fonctionnera pas si vous utilisez des élytres.",
+"power.rammling.small.name": "Petite",
+  "power.rammling.small.description": "Votre taille légèrement plus petite signifie que vous n'avez que sept coeurs de vie.",
+  "power.rammling.walkonsnow.name": "Poids léger",
+  "power.rammling.walkonsnow.description": "Votre petite taille et vos sabots vous empêchent de vous enfoncer dans la poudreuse."
+}
